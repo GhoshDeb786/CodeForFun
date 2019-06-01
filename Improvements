@@ -1,0 +1,7 @@
+Improvements - 
+
+1. Here I have used BDD approach , by which the Feature file functionality is easily understandable by anyone.
+
+2. I have used Cucumber HTML Reporting , however as an improvement , Extent Reporting functionality Could also be used.
+
+3. As a Value add - CI/CD tool Jenkins could also be used to create a pipeline to trigger the build by integrating Jenkins + GIT Repo
